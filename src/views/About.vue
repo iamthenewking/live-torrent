@@ -5,13 +5,8 @@
         <h1 class="title my-5">About Live Torrent</h1>
 
         <p>Live Torrent created to explore, share and play media of torrent files online.</p>
-        <p>
-          Live Torrent is open source.
-          <br />Visit the github repository from
-          <a href="https://github.com/Davenchy/live-torrent">here</a>.
-        </p>
-        <p></p>
-        <p>My twitter user: @fadi_davenchy.</p>
+        
+        
         <p>
           Backend is based on
           <a href="https://webtorrent.io">webtorrent</a> project.
