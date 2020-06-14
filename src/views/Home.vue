@@ -58,18 +58,7 @@
             desc="Live Torrent is a web app to explore, download or watch torrent files online"
           />
         </v-flex>
-        <v-flex xs12 class="text-xs-center mt-5">
-          <a
-            href="https://brave.com/liv970"
-            target="_blank"
-            title="Support us and a faster and safer web by downloading Brave browser"
-          >
-            <img
-              src="/img/brave.png"
-              alt="Proud to support a faster, safer web"
-            />
-          </a>
-        </v-flex>
+       
       </v-layout>
     </v-flex>
   </v-layout>
