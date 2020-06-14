@@ -48,30 +48,7 @@
             </template>
           </v-text-field>
         </v-flex>
-
-        <v-flex class="text-xs-center mt-5">
-          <v-btn
-            color="gray"
-            href="https://github.com/Davenchy/live-torrent"
-            target="blank"
-          >
-            <v-icon left>fab fa-github</v-icon>Github
-          </v-btn>
-          <v-btn
-            color="gray"
-            href="https://github.com/Davenchy/live-torrent/issues"
-            target="blank"
-          >
-            <v-icon left>fas fa-exclamation-circle</v-icon>Github Issues
-          </v-btn>
-          <v-btn
-            color="blue"
-            href="mailto:firon1222@gmail.com?Subject=Live%20Torrent%20-%20Feedback"
-            target="blank"
-          >
-            <v-icon left>fas fa-comments</v-icon>Feedback
-          </v-btn>
-        </v-flex>
+ 
 
         <v-flex xs10 offset-xs1 class="mt-5">
           <div class="mb-3">Share Live Torrent:</div>
